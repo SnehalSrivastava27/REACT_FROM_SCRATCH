@@ -75,3 +75,7 @@ container.appendChild(node)
 // root.render(<App />);
 
 
+// TextNode vs InnerText
+// https://chatgpt.com/share/68561172-2d18-8013-86c3-7ba97d5a6686
+
+
